@@ -1,2 +1,3 @@
-#Создать репозитарий
-#Указать основную ветку в настройках https://github.com/lekseys/githubpages/settings/pages
+*Создать репозитарий
+*Указать основную ветку репозитария в настройках https://github.com/lekseys/githubpages/settings/pages
+*Результат будет по ссылке "юзернейм в хитхабе".github.io/"название репозитария"
