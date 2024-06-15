@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 ## Limits on use of {% data variables.product.prodname_pages %}
 
 {% ifversion fpt or ghec %}
